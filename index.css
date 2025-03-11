@@ -279,6 +279,12 @@ html {
     margin-bottom: 20px;
 }
 
-body{
-    background-color: #b6f943;
+h6{
+    background-color: #b718ac;
+    font-weight: bold;
+    max-width: 700px;
+    margin: 20px auto;
+    font-size: 16px;
+    text-align: center;
+    
 }
